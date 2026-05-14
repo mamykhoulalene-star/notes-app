@@ -17,7 +17,7 @@ A modern, feature-rich note-taking application built with React and Tailwind CSS
 - **Auto-resize Textarea** - Input grows with your content
 
 ## 🚀 Live Demo
-https://notes-md6kdzssz-mamykhoulalene-2450s-projects.vercel.app/notes
+https://notes-md6kdzssz-mamykhoulalene-2450s-projects.vercel.app
 
 ![Notes App Screenshot](./screenshot.png)
 
