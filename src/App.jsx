@@ -7,11 +7,11 @@ import './App.css'
 function App() {
   
   return (
-    <>
+    <div className="bg-gradient-to-br from-blue-50 to-indigo-100 min-h-screen">
     <BrowserRouter>
     
       <nav>
-      <Link to='/'>Home</Link>
+      <Link to='/'> ./</Link>
       <Link to='/notes'>Notes</Link>
       </nav>
     
@@ -20,7 +20,7 @@ function App() {
       <Route path='/notes' element={<Notes/>}/>
       </Routes>
    </BrowserRouter>
-   </>
+   </div>
   )
 }
 
